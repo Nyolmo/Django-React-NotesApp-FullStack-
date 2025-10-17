@@ -8,3 +8,4 @@ pyJWT
 pytz
 sqlparse
 python-dotenv
+gunicorn
